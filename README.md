@@ -6,7 +6,7 @@ In it, design a web page with the following characteristics:
 - it should use the Bulma css library (0.5 point)
 - it should contain a `<header/>` a `<footer/>` and two `<section/>`s in between. (one point)
 - One section with class "top" and one with class "bottom". (1 point)
-- The top section should contain an <img/> that fills the page horizontally and show the image of a cat. The image is provided in this repository. (1 point)
+- The top section should contain an `<img/>` that fills the page horizontally and show the image of a cat. The image is provided in this repository. (1 point)
 - the bottom section should contain 6 columns (1 point)
 - each column should contain a card (1 point)
 - each card should have a header and content (1 point)
