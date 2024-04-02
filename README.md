@@ -2,9 +2,9 @@
 
 You will find here a file `index.html`. 
 In it, design a web page with the following characteristics:
-- it should have a <head/> and a <body/> (0.5 point)
+- it should have a `<head/>` and a `<body/>` (0.5 point)
 - it should use the Bulma css library (0.5 point)
-- it should contain a <header/> a <footer/> and two <section/>s in between. (one point)
+- it should contain a `<header/>` a `<footer/>` and two `<section/>`s in between. (one point)
 - One section with class "top" and one with class "bottom". (1 point)
 - The top section should contain an <img/> that fills the page horizontally and show the image of a cat. The image is provided in this repository. (1 point)
 - the bottom section should contain 6 columns (1 point)
